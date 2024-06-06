@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809391382899",
+    "project_id": "anotayrecuerda-b4f72",
+    "storage_bucket": "anotayrecuerda-b4f72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809391382899:android:390856bd9e5d597fa7a506",
+        "android_client_info": {
+          "package_name": "com.example.anotayrecuerda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLaJlA61MITBw-CuiELZmvveTcdfU6fZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
